@@ -1,5 +1,5 @@
-#WARNING THIS PROGRAM FREEZES YOUR OS SO YOU NEED TO RESTART IT
-###Your PC won't take any harm
+# WARNING THIS PROGRAM FREEZES YOUR OS SO YOU NEED TO RESTART IT
+### Your PC won't take any harm
 
 # windows-freezer
 Freezes the windows OS with changing the backround every tick
